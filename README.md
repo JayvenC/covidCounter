@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install moment
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,5 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
